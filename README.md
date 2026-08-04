@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋😇
 
-<!--
-**JTSHAOKAHN/JTSHAOKAHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm _**Jonathan**_ 👋
+Front-end & Back-end | Full-stack Mobile + Web Developer based in South Africa 🇿🇦
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.  
+If an idea pops into my head, I ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Tech Stack**
+React · TypeScript · Tailwind · Vite · Radix UI · Framer Motion  
+Kotlin · Android Studio · Capacitor · Supabase · PostgreSQL
+
+#### **Favourite Project** 
+[SPECTRUM APP]
+
+#### **Fun Facts**
+1.  I build because I love the challenge. Finding a bug is just another puzzle to solve.
+2.  Gamer: Mobile + PC
+3.  Math + Physics nerd. Numbers make sense to me.
+4.  I can not spell some words 🥹 
+
+Let's build something cool together.
